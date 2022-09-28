@@ -1,1 +1,1 @@
-# aditi1042003
+# EDA on stock data
